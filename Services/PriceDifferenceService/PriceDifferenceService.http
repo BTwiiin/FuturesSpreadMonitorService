@@ -1,0 +1,6 @@
+@PriceDifferenceService_HostAddress = http://localhost:5236
+
+GET {{PriceDifferenceService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
