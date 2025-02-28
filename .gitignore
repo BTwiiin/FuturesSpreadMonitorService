@@ -1,6 +1,5 @@
 bin
 obj
-*.md
 *.txt
 *.pdf
 *.docx
